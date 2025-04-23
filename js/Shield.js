@@ -94,8 +94,12 @@ Shield.prototype.specialBannerTypes = {
 		["Loop"] : 0,
 		["Spur"] : 0,
 		["Toll"] : 0,
+		["NTTA"] : 0,
+		["Austin"] : 0,
 		["Express"] : 0,
-		["Fm"] : 4,
+		["ExpressI"] : 0,
+		["ExpressUS"] : 0,
+		["Fm"] : 0,
 		["Park"] : 0,
 		["Rm"] : 0
 	}
